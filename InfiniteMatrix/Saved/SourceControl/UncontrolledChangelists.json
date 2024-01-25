@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/TEX_Healthpack_Textured_Albedo.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/TEX_Healthpack_Textured_Roughness.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/initialShadingGroup.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_HealthPack.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/T_Healthpack_Textured_Albedo.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/T_Healthpack_Textured_Roughness.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_HealthPack.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_HealthPack.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/CameraShake.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_CameraShake.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Health.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Projectile.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/helicopter_box_0.uasset",
+				"C:/Users/tlian/OneDrive/Documents/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Enemy.uasset"
+			]
+		}
+	]
+}
